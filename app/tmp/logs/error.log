@@ -1,0 +1,99 @@
+2012-03-02 03:20:43 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:20:51 Error: [MissingControllerException] Controller class SobreaaController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:21:00 Error: [MissingControllerException] Controller class Sobre.phpController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:21:48 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:21:51 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:22:06 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:22:20 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:22:33 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:24:59 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:25:00 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:25:00 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:25:01 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:25:01 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:25:01 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:25:01 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:26:45 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:26:54 Error: [MissingControllerException] Controller class IndexController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:35:20 Error: [MissingControllerException] Controller class Como-chegarController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 03:53:38 Error: [MissingViewException] View file "C:\wamp\www\cakephp-lab\app\View\Pages\como-chegar.ctp" is missing.
+#0 C:\wamp\www\cakephp-lab\lib\Cake\View\View.php(360): View->_getViewFileName('como-chegar')
+#1 C:\wamp\www\cakephp-lab\lib\Cake\Controller\Controller.php(900): View->render('como-chegar', NULL)
+#2 C:\wamp\www\cakephp-lab\lib\Cake\Controller\PagesController.php(73): Controller->render('como-chegar')
+#3 [internal function]: PagesController->display('como-chegar')
+#4 C:\wamp\www\cakephp-lab\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\cakephp-lab\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\cakephp-lab\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-02 03:54:22 Error: [MissingViewException] View file "C:\wamp\www\cakephp-lab\app\View\Pages\sobre-o-evento.ctp" is missing.
+#0 C:\wamp\www\cakephp-lab\lib\Cake\View\View.php(360): View->_getViewFileName('sobre-o-evento')
+#1 C:\wamp\www\cakephp-lab\lib\Cake\Controller\Controller.php(900): View->render('sobre-o-evento', NULL)
+#2 C:\wamp\www\cakephp-lab\lib\Cake\Controller\PagesController.php(73): Controller->render('sobre-o-evento')
+#3 [internal function]: PagesController->display('sobre-o-evento')
+#4 C:\wamp\www\cakephp-lab\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\cakephp-lab\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\cakephp-lab\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-02 03:54:37 Error: [MissingViewException] View file "C:\wamp\www\cakephp-lab\app\View\Pages\sobre-o-evento.ctp" is missing.
+#0 C:\wamp\www\cakephp-lab\lib\Cake\View\View.php(360): View->_getViewFileName('sobre-o-evento')
+#1 C:\wamp\www\cakephp-lab\lib\Cake\Controller\Controller.php(900): View->render('sobre-o-evento', NULL)
+#2 C:\wamp\www\cakephp-lab\lib\Cake\Controller\PagesController.php(73): Controller->render('sobre-o-evento')
+#3 [internal function]: PagesController->display('sobre-o-evento')
+#4 C:\wamp\www\cakephp-lab\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\wamp\www\cakephp-lab\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\wamp\www\cakephp-lab\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-02 03:59:42 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 04:01:18 Error: [MissingControllerException] Controller class MapaController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 04:01:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 04:01:24 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-02 04:01:31 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

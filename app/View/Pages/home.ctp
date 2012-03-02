@@ -1,6 +1,6 @@
-﻿<html>
+<html>
 <head>
-<title> Tarcisio's Test</title>
+<title>CakePHP-Lab</title>
 </head>
 <body>
 <div>

@@ -26,10 +26,16 @@
  * to use (in this case, /app/View/Pages/home.ctp)...
  */
 	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
+        
+/* Static Routes - Tarcisio */        
+        
+        Router::connect('/sobre-o-evento', array('controller' => 'pages', 'action' => 'display', 'sobre'));
+        Router::connect('/como-chegar', array('controller' => 'pages', 'action' => 'display', 'mapa'));
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
 	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
+        Router::connect('/paginas/*', array('controller' => 'pages', 'action' => 'display'));
 
 /**
  * Load all plugin routes.  See the CakePlugin documentation on 
