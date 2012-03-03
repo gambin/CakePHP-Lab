@@ -169,3 +169,21 @@
 2012-03-03 03:18:00 Error: [MissingControllerException] Controller class CssController could not be found.
 #0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-03-03 12:57:14 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-03 13:01:39 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-03 13:01:55 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-03 13:02:28 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-03 13:06:37 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-03 14:01:03 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
