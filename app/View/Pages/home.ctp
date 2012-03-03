@@ -1,17 +1,13 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
-<title>CakePHP-Lab</title>
+<meta charset="utf-8" />
+<title><?php echo $title_for_layout ?></title>
+<?php echo $this->Html->css('estilo') ?>
 </head>
 <body>
-<div>
-<b> PARABÉNS! </b>
-</div>
-<p style="padding-top:15px">
-<?php
-	$premio = "Churros";
-	$quantidade = 5;
-		echo "Você é o nosso <b>9999º</b> visitante e acaba de ganhar <b>$quantidade $premio</b>";
-?>
-</p>
+
+    <h2>Bem-vindo ao nosso site!</h2>
+
 </body>
 </html>

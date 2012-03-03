@@ -1,0 +1,25 @@
+/* 
+    Document   : estilo
+    Created on : 02/03/2012, 23:51:00
+    Author     : Tarcisio
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root{ 
+    display: block;
+}
+
+body{
+    font-family: arial;
+    background-image:url('pardal.jpg');
+}
+
+.texto-box-interno{
+    padding: 10px 0 10px 0;
+}    

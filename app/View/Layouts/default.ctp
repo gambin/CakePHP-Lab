@@ -6,7 +6,8 @@
 <?php echo $this->Html->css('estilo') ?>
 </head>
 <body>
-<h1>Este título aparece em todas as páginas</h1>
+    <div id="menu-superior"> Home | Sobre o Evento | Como Chegar | Contato </div>
+<h1 id="titulo-pagina">17º Encontro dos Criadores de Pardais Amestrados da Groenlândia</h1>
 <?php echo $content_for_layout ?>
 </body>
 </html>
