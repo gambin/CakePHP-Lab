@@ -187,3 +187,6 @@
 2012-03-03 14:01:03 Error: [MissingControllerException] Controller class Index.phpController could not be found.
 #0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-03-04 15:35:23 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\wamp\www\cakephp-lab\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
