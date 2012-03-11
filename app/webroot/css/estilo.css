@@ -23,6 +23,7 @@ html,body{
     opacity:1.0;
     -moz-opacity:1.0;
     filter:alpha(opacity=100); /* For IE8 and earlier */
+    overflow-x: hidden;
 } 
 #geral{
     width: 100%;

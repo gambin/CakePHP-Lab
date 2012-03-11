@@ -31,6 +31,7 @@
         
         Router::connect('/sobre-o-evento', array('controller' => 'pages', 'action' => 'display', 'sobre'));
         Router::connect('/como-chegar', array('controller' => 'pages', 'action' => 'display', 'mapa'));
+        Router::connect('/inscricoes', array('controller' => 'inscricoes', 'action' => 'inscrever'));
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */

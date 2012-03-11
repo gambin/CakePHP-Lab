@@ -9,12 +9,7 @@
 <div id="geral">
     <div id="fundo-pardal"></div>
         <div id="conteudo-geral">
-            <div id="menu-superior"> 
-                <a href="/cakephp-lab">Home</a> | 
-                <a href="sobre-o-evento">Sobre o Evento</a> | 
-                <a href="como-chegar">Como Chegar</a> | 
-                <a href="#">Contato </a>
-            </div>
+                <?php echo $this->element('menu', array('cache' =>true)) ?>
                 <h1 id="titulo-pagina">17º Encontro dos Criadores de Pardais Amestrados da Groenlândia</h1> 
                 <?php echo $content_for_layout ?>
         </div>
